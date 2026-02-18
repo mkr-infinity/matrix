@@ -96,13 +96,16 @@
 ---
 
 
-## 📝 Note
 
-- 🌍 **Open Source Project** → This app is completely open source.  
-- 🛠️ **Create & Modify Freely** → Anyone can use, edit, and improve the code.  
-- 🙏 **Give Credits** → If you use or modify this project, please give proper credit to the original developer.  
-- 🤝 **Community Driven** → Contributions, forks, and pull requests are always welcome!  
+## ©️ Copyright
 
+- © 2026 **Mohammad Kaif Raja 🇮🇳**  
+- 📜 Licensed under **MIT License** → Free to use, modify, and distribute.  
+- 🌍 **Open Source** → Anyone can contribute, fork, or improve this project.  
+- 🙏 **Credits Required** → Please give proper credit when using or modifying this project.  
+- 🤝 **Community Friendly** → Contributions and pull requests are welcome!  
+
+ 
 ---
 
 <p align="center">

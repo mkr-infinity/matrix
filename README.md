@@ -95,6 +95,16 @@
 
 ---
 
+
+## 📝 Note
+
+- 🌍 **Open Source Project** → This app is completely open source.  
+- 🛠️ **Create & Modify Freely** → Anyone can use, edit, and improve the code.  
+- 🙏 **Give Credits** → If you use or modify this project, please give proper credit to the original developer.  
+- 🤝 **Community Driven** → Contributions, forks, and pull requests are always welcome!  
+
+---
+
 <p align="center">
   ⭐ Star this repo if you like the project!  
   <br><br>

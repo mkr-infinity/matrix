@@ -10,7 +10,23 @@
 </p>
 
 ---
+# 📑 Table of Contents  
 
+- [🧮 Matrix Solver](#-matrix-solver)  
+- [✨ Features](#-features)  
+  - [🚀 Core Capabilities](#-core-capabilities)  
+  - [📖 Learning Support](#-learning-support)  
+  - [🎨 User Experience](#-user-experience)  
+  - [🛡️ Privacy & Security](#-privacy-&-security)  
+- [📱 Screenshots](#-screenshots)  
+- [📦 Download](#-download)  
+- [🚀 Install](#-install)  
+- [🛠 Tech Stack](#-tech-stack)  
+- [👨‍💻 Developer](#-developer)  
+- [©️ Copyright](#️-copyright)
+
+  ---
+  
 ## ✨ Features
 
 <p align="center">

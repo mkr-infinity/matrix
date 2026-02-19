@@ -17,12 +17,12 @@
   - [🚀 Core Capabilities](#-core-capabilities)  
   - [📖 Learning Support](#-learning-support)  
   - [🎨 User Experience](#-user-experience)  
-  - [🛡️ Privacy & Security](#-privacy--security)  
+  - [🛡️ Privacy & Security](#privacy--security)  
 - [📱 Screenshots](#-screenshots)  
 - [📦 Download](#-download)  
 - [🚀 Install](#-install)  
 - [🛠 Tech Stack](#-tech-stack)  
-- [👨‍💻 Developer](#-developer)  
+- [👨‍💻 Developer](#developer)  
 - [©️ Copyright](#️-copyright)
 
   ---

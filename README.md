@@ -56,12 +56,14 @@
 ---
 ## 📦 Download
 
-📥 From [**Releases**](https://github.com/mkr-infinity/matrix/releases), install:
+📥 From [**Releases**](https://github.com/mkr-infinity/Matrix_Calculator/releases), install:
 
-- 📱 [**arm64-v8a**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-arm64-v8a.apk) → Recommended for modern phones ✅  
-- 📱 [**armeabi-v7a**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-armeabi-v7a.apk) → Old / low-end devices  
-- 💻 [**x86 / x86_64**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-x86.apk) → Emulator  
-- 🌍 [**universal**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-universal.apk) → Works on all devices  
+- 📱 [**arm64-v8a**](https://github.com/mkr-infinity/Matrix_Calculator/releases/download/Matrix_Solver/Matrix_Solver-arm64-v8a-release.apk) → Recommended for modern phones ✅  
+- 📱 [**armeabi-v7a**](https://github.com/mkr-infinity/Matrix_Calculator/releases/download/Matrix_Solver/Matrix_Solver-armeabi-v7a-release.apk) → Old / low-end devices  
+- 💻 [**x86 / x86_64**](https://github.com/mkr-infinity/Matrix_Calculator/releases/download/Matrix_Solver/Matrix_Solver-x86-release.apk) → Emulator
+
+  
+- 🌍 [**universal**](https://github.com/mkr-infinity/Matrix_Calculator/releases/download/Matrix_Solver/Matrix_Solver-universal-release.apk) → Works on all devices  
 
 
 ---
